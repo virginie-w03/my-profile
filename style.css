@@ -1,0 +1,53 @@
+body {
+	background-color: rgb(230 ,230 ,240);
+	color: #987284;
+	font-family: Courier, serif;
+	text-align: center;
+}
+
+h1 {
+	font-size: 50px;
+	letter-spacing: 8px;
+	font-family: Times, serif;
+	font-color: rgb(150, 150, 150);
+}
+
+h2 {
+	font-family: Times, serif;
+	font-weight: 150
+	letter-spacing: 10px;
+	font-size: 40px;
+}
+
+a {
+	text-decoration: none;
+	color: #261447;
+	transition: color 0.3s ease;
+}
+
+a:hover {
+	color: #DB2B39;
+}
+
+img {
+	width: 170px;
+}
+
+div {
+	background: rgb(230, 230, 240);
+	padding: 25px;
+	margin: 60px;
+	border-radius: 10px;
+	box-shadow: 0 10px 30px #261447;
+}
+
+.img-circle {
+	border-radius: 50%
+}
+
+.btn-blue {
+	background-color: #261447;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 10px;
+}
